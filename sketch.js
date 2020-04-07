@@ -1,4 +1,4 @@
-var screen = 6;
+var screen = 1;
 var numberOfPages = 6;
 var miniver;
 var maxDiameter; 
