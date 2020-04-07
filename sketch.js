@@ -69,7 +69,7 @@ var bgNoiseOn = true;
 var treeGrow = 0;
 
 function preload() {
-  miniver = loadFont('assets/RobotoSlab-Regular.ttf');
+  miniver = loadFont('assets/BostonRegular.otf');
     
   bgNoise = loadSound('assets/sounds/backgroundNoise.mp3');
   Screen2sound = loadSound('assets/sounds/screen2sound.mp3');
